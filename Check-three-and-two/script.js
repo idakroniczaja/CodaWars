@@ -1,5 +1,5 @@
 function checkThreeAndTwo(array) {
-    let filterA = array.filter(elem => elem === 'a').length;
+  let filterA = array.filter(elem => elem === 'a').length;
    let filterB = array.filter(elem => elem === 'b').length;
    let filterC = array.filter(elem => elem === 'c').length;
    
